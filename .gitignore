@@ -1,0 +1,8 @@
+# ignora todos los archivos .tmp
+*.tmp
+# ignora especificamente contrasena.txt
+contrasena.txt
+# ignora un rango de numeros en este caso entre images 1 a 9
+images[1-9].png
+# ignora el archivo prueba que esta dentro de la carpeta temporal
+temporal/prueba.txt
