@@ -1,6 +1,6 @@
 Titulo: README
 
-descripción: Read me twin 
+descripción: Read me twin + Actualizado + dark git psychology
 
 listado: 
 no se que poner
